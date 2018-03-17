@@ -1,6 +1,4 @@
 <?php
 /**
- *
- *	ystandard子テーマの関数
- *
+ * ystandard子テーマの関数
  */
