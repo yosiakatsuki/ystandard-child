@@ -9,6 +9,8 @@
 
 ## 変更履歴
 
+- 2019/07/04
+	- yStandard v3対応
 - 2018/09/28
   - user-custom-editor-style.css 追加(yStandard v2.9.0対応)
 - 2017/x/x
