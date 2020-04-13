@@ -9,6 +9,8 @@
 
 ## 変更履歴
 
+- 2020/04/13
+    - yStandard v4対応
 - 2019/12/14
     - user-custom-editor-style.cssの調整
 - 2019/07/04
